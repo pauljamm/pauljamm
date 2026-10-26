@@ -1,5 +1,5 @@
 # Hi, I'm Pavel! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHkwOWxiOWo1ZmYwazJpN2RvazVxZWd6OHQ4YnF2dGZxeWo0ampmaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/O9Cm3Va3tClZSCWvyi/giphy.gif" width="50">
-Head of DevOps Tools Product at [Yandex Cloud](https://yandex.cloud/en)
+Head of Managed Service for Kubernetes at [Yandex Cloud](https://yandex.cloud/en)
 
 
 ## 🌐 Socials:
